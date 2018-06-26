@@ -1,0 +1,20 @@
+# Folder view configuration files
+.DS_Store
+
+# Files that might appear on external disks of OS X
+.Spotlight-V100
+.Trashes
+
+# Python files
+*.pyc
+.ipynb_checkpoints
+
+# token file
+data.py 
+
+# vim files
+*.swp
+*.swo
+#temp files
+ga_mlp_bot/plot.png
+ga_mlp_bot/data.csv
